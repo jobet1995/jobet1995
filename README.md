@@ -1,6 +1,17 @@
 ### ✨🤩About Me
 
-👋Hello! I'm a passionate and driven Backend Developer with experience in Java, Python, SQL, and Salesforce. I have a solid foundation in backend development and am eager to contribute to impactful projects. My work experience as a Salesforce Administrator has given me valuable insights into CRM systems and the importance of data management and automation in business processes..
+👋Hello! I'm a passionate and driven Backend Developer with experience in Java, Python, SQL, and Salesforce. I have a solid foundation in backend development and am eager to contribute to impactful projects. My work experience as a Salesforce Administrator has given me valuable insights into CRM systems and the importance of data management and automation in business processes.
+
+### Skills
+- **Java**: Proficient in Java for backend development.
+- **Python**: Experienced in scripting and backend development.
+- **SQL**: Skilled in database management with MySQL, PostgreSQL, and SQLite.
+- **Salesforce**: Hands-on experience as a Salesforce Administrator, managing CRM systems, automating workflows, and improving data integrity.
+- **Docker**: Familiar with containerization using Docker.
+- **Azure**: Knowledgeable in deploying and managing applications on Microsoft Azure.
+- **Kotlin**: Experience in developing applications using Kotlin.
+- **Flutter**: Developing cross-platform mobile applications using Flutter.
+- **GitHub Actions**: Proficient in setting up CI/CD pipelines using GitHub Actions.
 
 ### 🌐Connect with me
 
