@@ -10,4 +10,4 @@ ___<p style="font-size:20px">✨🤩About Me</p>___
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/itsjhayzhee?igsh=MXIwbXRlMmZnYTZwag==)
 
 
-##🖥️ Tech Stacks
+###🖥️ Tech Stacks
