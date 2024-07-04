@@ -1,6 +1,6 @@
 ### ✨🤩About Me
 
-👋Hi there! I'm Jobet Casquejo, a passionate and motivated Java Developer with a keen interest in developing efficient and scalable web applications. I recently graduated with a degree in Bachelor of Science in Information Technology from University of Science and Technology of Southern Philippines, where I honed my skills in software development and gained hands-on experience through various projects and internships.
+👋Hello! I'm a passionate and driven Backend Developer with experience in Java, Python, SQL, and Salesforce. I have a solid foundation in backend development and am eager to contribute to impactful projects. My work experience as a Salesforce Administrator has given me valuable insights into CRM systems and the importance of data management and automation in business processes..
 
 ### 🌐Connect with me
 
