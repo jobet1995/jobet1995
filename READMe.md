@@ -9,11 +9,12 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and solvi
 - 🤝 Open to collaborating on exciting projects and contributing to open-source.
 
 ## 🛠️ Tech Stack
-- **Languages:** Python, JavaScript, C++, Java
+- **Languages:** Python, JavaScript, C++, Java, Apex
 - **Frameworks/Platforms:** Node.js, React, Django, Flask
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Tools:** Docker, Kubernetes, Git, CI/CD Pipelines
 - **Cloud:** AWS, Azure, Google Cloud
+- **CRM** Salesforce
 
 ## 📈 GitHub Stats
 ![Jobet's GitHub stats](https://github-readme-stats.vercel.app/api?username=jobet1995&show_icons=true&theme=radical)
